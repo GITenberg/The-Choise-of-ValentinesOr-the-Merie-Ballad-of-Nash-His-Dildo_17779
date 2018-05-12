@@ -21,6 +21,8 @@ creator:
     gutenberg_agent_id: '2762'
     url: http://www.gutenberg.org/2009/agents/2762
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17779#The-Choise-of-ValentinesOr-the-Merie-Ballad-of-Nash-His-Dildo
 gutenberg_issued: '2006-02-16'
 gutenberg_type: Text
 identifiers:
